@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577320804 source:d:\lzx\shixun2\vip\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
